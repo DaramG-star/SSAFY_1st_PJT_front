@@ -77,76 +77,98 @@
 
 ---
 
-### 🧾 1. 사용자 인증
+## 🎨 주요 기능 소개
 
-회원가입 시 금융 정보 입력 → AI 맞춤 추천에 활용
+### 1. AI 기반 금융 상품 추천
+회원가입 시 입력한 개인 금융 정보를 바탕으로, 머신러닝이 최적의 예·적금 상품을 분석하고 추천합니다. AI가 제안하는 맞춤형 상품으로 가장 효율적인 재테크를 시작할 수 있습니다.
 
 <p align="center">
-  <img src="./images/signup.png" width="500px" alt="회원가입 스크린샷" />
+  <img src="images/recommend1.PNG" width="800" alt="AI 분석 결과" /><br>
+  <em>AI가 사용자의 정보를 바탕으로 최적 예/적금 기간과 금액을 예측합니다.</em>
+</p>
+<p align="center">
+  <img src="images/recommend2.PNG" width="800" alt="추천 상품 상세 정보" /><br>
+  <em>분석 결과를 바탕으로 가장 적합한 TOP 5 상품을 추천받을 수 있습니다.</em>
 </p>
 
 ---
 
-### 🤖 2. 금융상품 추천
-
-입력된 정보를 바탕으로 머신러닝 기반 상품 추천
+### 2. 예·적금 비교 및 검색
+전체 금융사의 상품을 한눈에 비교하고, 원하는 조건(은행, 금리, 기간 등)으로 필터링하여 나에게 꼭 맞는 상품을 손쉽게 찾을 수 있습니다.
 
 <p align="center">
-  <img src="./images/recommendation.png" width="500px" alt="추천 결과 스크린샷" />
+  <img src="images/deposit_compare.png" width="800" alt="예적금 상품 비교 페이지" /><br>
+  <em>다양한 필터 기능으로 원하는 상품을 쉽게 찾을 수 있습니다.</em>
+</p>
+<p align="center">
+  <img src="images/compare2.jpg" width="800" alt="상품 상세 정보 모달" /><br>
+  <em>상품의 상세 정보와 가입 조건, 금리 정보를 투명하게 제공합니다.</em>
 </p>
 
 ---
 
-### 💰 3. 예·적금 비교
-
-조건별 필터링 및 이자율 정렬이 가능한 예적금 테이블
+### 3. 실시간 금융 정보 및 뉴스
+환율, 주가 지수, 금/은 시세 등 변동성 큰 금융 정보를 실시간으로 제공합니다. 매일 업데이트되는 금융 뉴스로 중요한 시장 동향을 놓치지 마세요.
 
 <p align="center">
-  <img src="./images/deposit_compare.png" width="500px" alt="예적금 비교 스크린샷" />
+  <img src="images/exchange_calc.png" width="800" alt="실시간 금융 지표" /><br>
+  <em>주요 금융 지표와 환율 정보를 한눈에 파악할 수 있습니다.</em>
+</p>
+<p align="center">
+  <img src="images/exchange_calc2.png" width="800" alt="금/은 시세 차트" /><br>
+  <em>차트를 통해 금과 은의 시세 추이를 직관적으로 확인할 수 있습니다.</em>
 </p>
 
 ---
 
-### 💱 4. 금융 시세
-
-실시간 환율 계산기 + 주변 은행 지도 조회
+### 4. 소통하는 금융 커뮤니티
+자유롭게 금융 팁과 정보를 나누는 공간입니다. 게시글 작성, 댓글, 좋아요, @멘션 기능을 통해 다른 사용자들과 활발하게 소통하며 금융 지식을 넓혀갈 수 있습니다.
 
 <p align="center">
-  <img src="./images/exchange_calc.png" width="500px" alt="환율 계산기" /><br>
-  <img src="./images/exchange_calc2.png" width="500px" alt="환율 계산기" />
+  <img src="images/community.png" width="800" alt="커뮤니티 메인 화면" /><br>
+  <em>금융에 대한 다양한 이야기를 자유롭게 나눌 수 있는 커뮤니티입니다.</em>
+</p>
+<p align="center">
+  <img src="images/community1.png" width="800" alt="커뮤니티 게시글 상세" /><br>
+  <em>댓글과 좋아요 기능으로 활발한 소통이 가능합니다.</em>
 </p>
 
 ---
 
-### 🎥 5. 관심 영상
-
-유튜브 API 기반 검색 → 영상 저장 → GPT 요약 제공
+### 5. 유튜브 영상 검색 및 AI 요약
+금융 관련 유튜브 영상을 검색하고 나만의 플레이리스트에 저장하세요. 특히, 저장된 영상은 **GPT가 핵심 내용을 요약**해주어 긴 영상도 빠르고 효율적으로 학습할 수 있습니다.
 
 <p align="center">
-  <img src="./images/video_search1.png" width="500px" alt="유튜브 검색" /><br>
-  <img src="./images/video_search2.png" width="500px" alt="유튜브 검색" /><br>
-  <img src="./images/video_search3.png" width="500px" alt="유튜브 검색" />
+  <img src="imagees/video_search1.jpg" width="800" alt="유튜브 영상 검색" /><br>
+  <em>플랫폼 내에서 원하는 금융 관련 영상을 바로 검색하고 저장할 수 있습니다.</em>
+</p>
+<p align="center">
+  <img src="images/video_search3.jpg" width="800" alt="영상 상세 및 ChatGPT 요약" /><br>
+  <em>저장한 영상의 핵심 내용을 ChatGPT가 요약해줘 시간을 절약해줍니다.</em>
 </p>
 
 ---
 
-### 🙋‍♂️ 6. 마이페이지
-
-추천 결과, 찜한 상품, 좋아요 게시글 모두 확인 가능
+### 6. 마이페이지 및 실시간 알림
+내가 찜한 상품, 좋아요한 게시글 등 모든 활동을 마이페이지에서 한눈에 관리할 수 있습니다. 또한, 새로운 댓글이나 금리 변동 같은 중요 소식은 실시간 알림으로 놓치지 않고 알려줍니다.
 
 <p align="center">
-  <img src="./images/mypage.png" width="500px" alt="마이페이지" />
+  <img src="images/mypage.PNG" width="800" alt="마이페이지" /><br>
+  <em>나의 금융 정보와 관심 상품, 활동 내역을 통합 관리할 수 있습니다.</em>
+</p>
+<p align="center">
+  <img src="images/noti.PNG" width="400" alt="실시간 알림창" /><br>
+  <em>내 활동에 대한 반응을 실시간 알림으로 바로 확인할 수 있습니다.</em>
 </p>
 
 ---
 
-### 💬 7. 커뮤니티
-
-글 작성 + 댓글 + 좋아요 + 멘션 알림까지 지원
+### 7. 24시간 AI 챗봇 상담
+"주변 은행 추천해줘", "돈 모으고 싶어" 와 같이 궁금한 점이 생길 때마다 AI 챗봇 '람쥐봇'에게 언제든지 물어보세요. 필요한 기능으로 바로 연결해주어 편리함을 더합니다.
 
 <p align="center">
-  <img src="./images/community.png" width="500px" alt="커뮤니티 페이지" /><br>
-  <img src="./images/community1.png" width="500px" alt="커뮤니티 페이지" />
+  <img src="images/chatbot.png" width="400" alt="챗봇 대화 예시" /><br>
+  <em>간단한 질문만으로도 원하는 정보와 기능을 안내받을 수 있습니다.</em>
 </p>
 
 ---
@@ -163,7 +185,7 @@
 ## 📊 ERD Diagram
 
 <p align="center">
-  <img src="readme/erd.png" width="500px" alt="ERD" />
+  <img src="images/erd.png" width="500px" alt="ERD" />
 </p>
 
 - 사용자(User), 금융상품(Deposit/Saving), 추천기록, 커뮤니티(Article, Comment), 저장영상, 알림(Notification) 등으로 구성  
