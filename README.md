@@ -69,7 +69,10 @@
 <p align="center">
   <img src="images/homepage1.PNG" width="400" alt="홈페이지 메인" />
   <img src="images/homepage2.PNG" width="400" alt="홈페이지 기능 소개" />
-  <img src="images/homepage3.PNG" width="400" alt="홈페이지 하단" />
+</p>
+<p align="center">
+  <img src="images/home.gif" width="400" alt="홈페이지 기능 동작 GIF" /><br>
+  <em>홈페이지 디자인 모습</em>
 </p>
 
 ### 회원가입
@@ -83,11 +86,10 @@
 머신러닝 모델이 사용자 입력 정보를 분석하여 최적의 예·적금 상품 가입 기간과 예상 금액을 제시하고, 맞춤형 TOP 5 상품을 추천합니다.
 
 <p align="center">
-  <img src="images/recommend1.PNG" width="400" alt="AI 분석 결과" /><br>
+  <img src="images/recommend1.PNG" width="500" alt="AI 분석 결과" /><br>
   <em>AI 분석 결과 및 추천 상품</em>
 </p>
 <p align="center">
-  <img src="images/recommend2.PNG" width="400" alt="추천 상품 상세 정보" />
   <img src="images/recommend3.PNG" width="350" alt="추천 상품 상세 정보2" />
 </p>
 <p align="center">
@@ -105,10 +107,10 @@
 다양한 조건으로 필터링하여 원하는 예·적금 상품을 쉽게 비교하고 검색할 수 있습니다.
 
 <p align="center">
-  <img src="images/deposit_compare.png" width="400" alt="예적금 상품 비교 페이지" />
+  <img src="images/deposit_compare.png" width="500" alt="예적금 상품 비교 페이지" />
 </p>
 <p align="center">
-  <img src="images/compare2.PNG" width="300" alt="상품 상세 정보 모달" /><br>
+  <img src="images/compare2.PNG" width="500" alt="상품 상세 정보 모달" /><br>
   <em>상품 상세 정보 확인</em>
 </p>
 
@@ -120,39 +122,42 @@
 <p align="center">
   <img src="images/exchange_calc.png" width="400" alt="실시간 금융 지표" />
   <img src="images/exchange_calc2.png" width="400" alt="금/은 시세 차트" />
-  <img src="images/exchange_calc3.PNG" width="400" alt="뉴스" />
+  <img src="images/exchange_calc3.PNG" width="600" alt="뉴스" />
 </p>
 
 ---
 
 ### 4. 소통하는 금융 커뮤니티
-자유롭게 금융 정보를 공유하고 소통할 수 있는 커뮤니티 기능을 제공합니다.
+금융 팁과 정보를 자유롭게 나누는 소통 공간입니다. 게시글 작성부터 댓글, 좋아요, 다른 사용자 언급(@) 및 팔로우에 이르는 다양한 소셜 기능을 통해 활발한 상호작용이 가능합니다.
 
 <p align="center">
-  <img src="images/community.png" width="400" alt="커뮤니티 메인 화면" />
-</p>
-<p align="center">
-  <img src="images/write1.PNG" width="350" alt="새글 작성" />
-  <img src="images/write2.PNG" width="350" alt="새글 작성 미리보기" />
-</p>
-<p align="center">
-  <img src="images/community1.png" width="400" alt="커뮤니티 게시글 상세" />
-</p>
-<p align="center">
-  <img src="images/profile.PNG" width="350" alt="프로필 보기" />
-  <img src="images/comment.PNG" width="350" alt="언급하기" />
-  <img src="images/profile2.PNG" width="250" alt="팔로우" />
+  <img src="images/community.png" width="750" alt="커뮤니티 메인 화면" /><br>
+  <em>전체 게시글을 한눈에 볼 수 있는 커뮤니티 메인 화면입니다.</em>
 </p>
 
+<p align="center">
+  <img src="images/write1.PNG" width="700" alt="새 글 작성" /><br>
+  <em>카테고리 선택, 제목 및 내용 작성, 이미지 첨부가 가능한 글쓰기 페이지입니다.</em>
+</p>
+
+<p align="center">
+  <img src="images/community1.png" width="750" alt="게시글 상세" /><br>
+  <em>게시글을 읽고 좋아요를 누르거나 댓글을 작성하며 소통할 수 있습니다.</em>
+</p>
+
+<p align="center">
+  <img src="images/comment.PNG" width="600" alt="댓글 작성 및 언급" />
+  <img src="images/profile2.PNG" width="450" alt="사용자 프로필" /><br>
+  <em>댓글에서 다른 사용자를 @언급하여 알림을 보내거나, 프로필 보기를 통해 서로 팔로우할 수 있습니다.</em>
+</p>
 ---
 
 ### 5. 유튜브 영상 검색 및 AI 요약
 금융 관련 유튜브 영상을 검색하고 저장하여 나만의 학습 리스트를 만들 수 있으며, AI(ChatGPT)를 통해 영상 내용을 요약하여 효율적인 학습을 돕습니다.
 
 <p align="center">
-  <img src="images/video_search1.png" width="400" alt="유튜브 영상 검색" />
-  <img src="images/video_search2.png" width="400" alt="저장된 영상" />
-  <img src="images/video_search3.png" width="400" alt="영상 상세 및 ChatGPT 요약" />
+  <img src="images/video_search1.png" width="500" alt="유튜브 영상 검색" />
+  <img src="images/video_search3.png" width="500" alt="영상 상세 및 ChatGPT 요약" />
 </p>
 
 ---
@@ -169,7 +174,11 @@
   <img src="images/noti2.PNG" width="200" alt="실시간 알림창2" />
 </p>
 <p align="center">
-  <img src="images/notifi.gif" width="300" alt="알람 기능 동작 GIF" /><br>
+  <img src="images/mypageg.gif" width="400" alt="알람 기능 동작 GIF" /><br>
+  <em>마이페이지 동작 모습</em>
+</p>
+<p align="center">
+  <img src="images/notifi.gif" width="400" alt="알람 기능 동작 GIF" /><br>
   <em>알림 기능 동작 모습</em>
 </p>
 
@@ -179,8 +188,8 @@
 AI 챗봇 '람쥐봇'을 통해 금융 관련 질문에 대한 답변과 필요한 기능 안내를 받을 수 있습니다.
 
 <p align="center">
-  <img src="images/chatbot.png" width="200" alt="챗봇 대화 예시" />
-  <img src="images/chatbot2.png" width="200" alt="챗봇 대화 예시2" />
+  <img src="images/chatbot.png" width="300" alt="챗봇 대화 예시" />
+  <img src="images/chatbot2.png" width="300" alt="챗봇 대화 예시2" />
 </p>
 
 ---
