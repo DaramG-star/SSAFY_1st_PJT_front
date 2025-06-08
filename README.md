@@ -79,16 +79,41 @@
 
 ## 🎨 주요 기능 소개
 
+### 홈페이지 디자인
+친근한 다람쥐 캐릭터를 중심으로 깔끔하고 통일감 있는 디자인의 홈페이지를 구현했습니다. 주요 기능들을 쉽게 찾아 이용할 수 있도록 직관적인 UI/UX를 적용했으며, 챗봇 상담 기능으로 편의성을 높였습니다.
+
+<p align="center">
+  <img src="images/homepage1.PNG" width="800" alt="홈페이지 사진" /><br>
+  <img src="images/homepage2.PNG" width="800" alt="홈페이지 사진" /><br>
+  <img src="images/homepage3.PNG" width="800" alt="홈페이지 사진" />
+</p>
+
+### 회원가입
+회원가입 시 개인 정보와 함께 사용할 아이디 및 비밀번호를 설정해야 합니다.
+
+<p align="center">
+  <img src="images/signup.png" width="600" alt="회원가입" />
+</p>
+
+
 ### 1. AI 기반 금융 상품 추천
-회원가입 시 입력한 개인 금융 정보를 바탕으로, 머신러닝이 최적의 예·적금 상품을 분석하고 추천합니다. AI가 제안하는 맞춤형 상품으로 가장 효율적인 재테크를 시작할 수 있습니다.
+머신러닝 모델이 사용자의 입력 정보를 분석하여 최적의 예·적금 상품 가입 기간과 예상 금액을 제시합니다.
 
 <p align="center">
   <img src="images/recommend1.PNG" width="800" alt="AI 분석 결과" /><br>
-  <em>AI가 사용자의 정보를 바탕으로 최적 예/적금 기간과 금액을 예측합니다.</em>
+  <em>AI 분석 결과를 토대로 사용자에게 가장 적합한 TOP 5 예·적금 상품을 추천하고, 관심 있는 상품은 찜 기능을 통해 저장할 수 있습니다.</em>
 </p>
 <p align="center">
-  <img src="images/recommend2.PNG" width="800" alt="추천 상품 상세 정보" /><br>
-  <em>분석 결과를 바탕으로 가장 적합한 TOP 5 상품을 추천받을 수 있습니다.</em>
+  <img src="images/recommend2.PNG" width="800" alt="추천 상품 상세 정보" />
+</p>
+<p align="center">
+  <img src="images/recommend3.PNG" width="700" alt="추천 상품 상세 정보2" /><br>
+  <img src="images/consult.PNG" width="700" alt="상담신청" /><br>
+  <em>추천된 상품의 '상세정보' 버튼을 클릭하면 상품의 세부 내용, 상담 신청 기능, 제휴 은행의 위치 정보 등을 확인할 수 있습니다.</em>
+</p>
+<p align="center">
+  <img src="images/recommend4.gif" width="800" alt="AI 추천 기능 동작 GIF" /><br>
+  <em>AI 추천 기능의 실제 동작 모습입니다.</em>
 </p>
 
 ---
@@ -97,26 +122,26 @@
 전체 금융사의 상품을 한눈에 비교하고, 원하는 조건(은행, 금리, 기간 등)으로 필터링하여 나에게 꼭 맞는 상품을 손쉽게 찾을 수 있습니다.
 
 <p align="center">
-  <img src="images/deposit_compare.png" width="800" alt="예적금 상품 비교 페이지" /><br>
-  <em>다양한 필터 기능으로 원하는 상품을 쉽게 찾을 수 있습니다.</em>
+  <img src="images/deposit_compare.png" width="800" alt="예적금 상품 비교 페이지" />
 </p>
 <p align="center">
-  <img src="images/compare2.jpg" width="800" alt="상품 상세 정보 모달" /><br>
-  <em>상품의 상세 정보와 가입 조건, 금리 정보를 투명하게 제공합니다.</em>
+  <img src="images/compare2.PNG" width="600" alt="상품 상세 정보 모달" /><br>
+  <em>상품별 상세 정보 팝업을 통해 가입 조건, 금리, 우대 혜택 등을 명확하게 확인할 수 있습니다.</em>
 </p>
 
 ---
 
 ### 3. 실시간 금융 정보 및 뉴스
-환율, 주가 지수, 금/은 시세 등 변동성 큰 금융 정보를 실시간으로 제공합니다. 매일 업데이트되는 금융 뉴스로 중요한 시장 동향을 놓치지 마세요.
+환율, 주가 지수, 금/은 시세 등 변동성 큰 금융 정보를 실시간으로 제공합니다. 실시간 뉴스 크롤링 기능을 통해 최신 금융 뉴스를 제공하며, '더보기'를 클릭하면 해당 기사 전문을 확인할 수 있습니다.
 
 <p align="center">
-  <img src="images/exchange_calc.png" width="800" alt="실시간 금융 지표" /><br>
-  <em>주요 금융 지표와 환율 정보를 한눈에 파악할 수 있습니다.</em>
+  <img src="images/exchange_calc.png" width="800" alt="실시간 금융 지표" />
 </p>
 <p align="center">
-  <img src="images/exchange_calc2.png" width="800" alt="금/은 시세 차트" /><br>
-  <em>차트를 통해 금과 은의 시세 추이를 직관적으로 확인할 수 있습니다.</em>
+  <img src="images/exchange_calc2.png" width="800" alt="금/은 시세 차트" />
+</p>
+<p align="center">
+  <img src="images/exchange_calc3.PNG" width="800" alt="뉴스" />
 </p>
 
 ---
@@ -125,72 +150,90 @@
 자유롭게 금융 팁과 정보를 나누는 공간입니다. 게시글 작성, 댓글, 좋아요, @멘션 기능을 통해 다른 사용자들과 활발하게 소통하며 금융 지식을 넓혀갈 수 있습니다.
 
 <p align="center">
-  <img src="images/community.png" width="800" alt="커뮤니티 메인 화면" /><br>
-  <em>금융에 대한 다양한 이야기를 자유롭게 나눌 수 있는 커뮤니티입니다.</em>
+  <img src="images/community.png" width="800" alt="커뮤니티 메인 화면" />
+</p>
+<p align="center">
+  <img src="images/write1.PNG" width="700" alt="새글" /><br>
+  <img src="images/write2.PNG" width="700" alt="새글2" /><br>
+  <em>게시글 작성 시 카테고리를 선택하고 이미지를 첨부하면 미리보기 기능을 통해 편리하게 확인할 수 있습니다.</em>
 </p>
 <p align="center">
   <img src="images/community1.png" width="800" alt="커뮤니티 게시글 상세" /><br>
   <em>댓글과 좋아요 기능으로 활발한 소통이 가능합니다.</em>
 </p>
+<p align="center">
+  <img src="images/profile.PNG" width="700" alt="프로필" />
+  <img src="images/comment.PNG" width="700" alt="댓글" /><br>
+  <em>다른 사용자를 언급하거나 프로필 정보를 확인할 수 있습니다.</em>
+</p>
+<p align="center">
+  <img src="images/profile2.PNG" width="500" alt="프로필2" /><br>
+  <em>프로필 보기를 누르면 상대의 팔로우 정보 등을 볼 수 있습니다.</em>
+</p>
 
 ---
 
 ### 5. 유튜브 영상 검색 및 AI 요약
-금융 관련 유튜브 영상을 검색하고 나만의 플레이리스트에 저장하세요. 특히, 저장된 영상은 **GPT가 핵심 내용을 요약**해주어 긴 영상도 빠르고 효율적으로 학습할 수 있습니다.
+finMunk 플랫폼 내에서 관심 있는 금융 관련 유튜브 영상을 검색하고 개인 라이브러리에 저장할 수 있습니다. 특히, 저장한 영상의 핵심 내용을 AI(ChatGPT)가 자동으로 요약하여 학습 시간을 절약해 줍니다.
 
 <p align="center">
-  <img src="imagees/video_search1.jpg" width="800" alt="유튜브 영상 검색" /><br>
-  <em>플랫폼 내에서 원하는 금융 관련 영상을 바로 검색하고 저장할 수 있습니다.</em>
+  <img src="images/video_search1.jpg" width="800" alt="유튜브 영상 검색" />
 </p>
 <p align="center">
-  <img src="images/video_search3.jpg" width="800" alt="영상 상세 및 ChatGPT 요약" /><br>
-  <em>저장한 영상의 핵심 내용을 ChatGPT가 요약해줘 시간을 절약해줍니다.</em>
+  <img src="images/video_search2.jpg" width="800" alt="저장된 영상" />
+</p>
+<p align="center">
+  <img src="images/video_search3.jpg" width="800" alt="영상 상세 및 ChatGPT 요약" />
 </p>
 
 ---
 
 ### 6. 마이페이지 및 실시간 알림
-내가 찜한 상품, 좋아요한 게시글 등 모든 활동을 마이페이지에서 한눈에 관리할 수 있습니다. 또한, 새로운 댓글이나 금리 변동 같은 중요 소식은 실시간 알림으로 놓치지 않고 알려줍니다.
+내가 찜한 상품, 좋아요한 게시글 등 모든 활동을 마이페이지에서 한눈에 관리할 수 있습니다. 또한, 나의 활동에 대한 반응과 금융 상품의 금리 변동 알림을 실시간으로 받아볼 수 있습니다.
 
 <p align="center">
-  <img src="images/mypage.PNG" width="800" alt="마이페이지" /><br>
-  <em>나의 금융 정보와 관심 상품, 활동 내역을 통합 관리할 수 있습니다.</em>
+  <img src="images/mypage.PNG" width="800" alt="마이페이지" />
 </p>
 <p align="center">
-  <img src="images/noti.PNG" width="400" alt="실시간 알림창" /><br>
-  <em>내 활동에 대한 반응을 실시간 알림으로 바로 확인할 수 있습니다.</em>
+  <img src="images/noti.PNG" width="400" alt="실시간 알림창" />
+  <img src="images/noti1.PNG" width="400" alt="실시간 알림창1" />
+  <img src="images/noti2.PNG" width="400" alt="실시간 알림창2" />
+</p>
+<p align="center">
+  <img src="images/notifi.gif" width="600" alt="알람 기능 동작 GIF" /><br>
+  <em>알림 기능의 실제 동작 모습입니다.</em>
 </p>
 
 ---
 
 ### 7. 24시간 AI 챗봇 상담
-"주변 은행 추천해줘", "돈 모으고 싶어" 와 같이 궁금한 점이 생길 때마다 AI 챗봇 '람쥐봇'에게 언제든지 물어보세요. 필요한 기능으로 바로 연결해주어 편리함을 더합니다.
+금융 관련 궁금한 점이나 필요한 기능을 AI 챗봇 '람쥐봇'과의 대화를 통해 쉽고 빠르게 안내받을 수 있습니다.
 
 <p align="center">
-  <img src="images/chatbot.png" width="400" alt="챗봇 대화 예시" /><br>
-  <em>간단한 질문만으로도 원하는 정보와 기능을 안내받을 수 있습니다.</em>
+  <img src="images/chatbot.png" width="400" alt="챗봇 대화 예시" />
+  <img src="images/chatbot2.png" width="400" alt="챗봇 대화 예시2" />
 </p>
 
 ---
 
 ## 🧠 추천 알고리즘 요약
 
-- 사용자 입력: 나이, 직업 여부, 소득, 자산  
-- 사전 학습된 머신러닝 모델 → 추천 개월 수 & 금액 예측  
-- DB 상품과의 유클리드 거리 계산 → 가장 가까운 5개 상품 추천  
-- 추천 로그는 `RecommendationLog`에 저장됨  
+- **사용자 입력**: 나이, 직업 여부, 소득, 자산
+- **머신러닝 예측**: 사전 학습된 모델이 사용자 정보 기반으로 최적 `추천 개월 수` & `추천 금액` 예측
+- **유사도 계산**: 예측된 값과 DB 내 전체 상품의 (개월 수, 금액)을 `유클리드 거리`로 계산
+- **최종 추천**: 거리가 가장 가까운 상위 5개 상품을 추천
+- **기록 저장**: 추천 결과는 `RecommendationLog`에 저장하여 추천 이력 관리
 
 ---
 
 ## 📊 ERD Diagram
 
 <p align="center">
-  <img src="images/erd.png" width="500px" alt="ERD" />
+  <img src="images/erd.png" width="700" alt="ERD" />
 </p>
 
-- 사용자(User), 금융상품(Deposit/Saving), 추천기록, 커뮤니티(Article, Comment), 저장영상, 알림(Notification) 등으로 구성  
-- `liked_by`는 Article, Comment, DepositProduct, SavingProduct 모두 ManyToMany 관계로 설계됨  
-  
+- 사용자(User), 금융상품(Deposit/Saving), 추천기록, 커뮤니티(Article, Comment), 저장영상, 알림(Notification) 등으로 구성
+- `liked_by`는 Article, Comment, DepositProduct, SavingProduct 모두 ManyToMany 관계로 설계됨
 
 ---
 
