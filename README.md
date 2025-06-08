@@ -177,13 +177,13 @@
 finMunk 플랫폼 내에서 관심 있는 금융 관련 유튜브 영상을 검색하고 개인 라이브러리에 저장할 수 있습니다. 특히, 저장한 영상의 핵심 내용을 AI(ChatGPT)가 자동으로 요약하여 학습 시간을 절약해 줍니다.
 
 <p align="center">
-  <img src="images/video_search1.jpg" width="800" alt="유튜브 영상 검색" />
+  <img src="images/video_search1.png" width="800" alt="유튜브 영상 검색" />
 </p>
 <p align="center">
-  <img src="images/video_search2.jpg" width="800" alt="저장된 영상" />
+  <img src="images/video_search2.png" width="800" alt="저장된 영상" />
 </p>
 <p align="center">
-  <img src="images/video_search3.jpg" width="800" alt="영상 상세 및 ChatGPT 요약" />
+  <img src="images/video_search3.png" width="800" alt="영상 상세 및 ChatGPT 요약" />
 </p>
 
 ---
@@ -192,7 +192,7 @@ finMunk 플랫폼 내에서 관심 있는 금융 관련 유튜브 영상을 검�
 내가 찜한 상품, 좋아요한 게시글 등 모든 활동을 마이페이지에서 한눈에 관리할 수 있습니다. 또한, 나의 활동에 대한 반응과 금융 상품의 금리 변동 알림을 실시간으로 받아볼 수 있습니다.
 
 <p align="center">
-  <img src="images/mypage.PNG" width="800" alt="마이페이지" />
+  <img src="images/mypage.png" width="800" alt="마이페이지" />
 </p>
 <p align="center">
   <img src="images/noti.PNG" width="400" alt="실시간 알림창" />
